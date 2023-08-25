@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.equiwatt.app.staging",
+            "sha256_cert_fingerprints": [
+                "A2:A1:F1:8A:F6:6D:5E:E3:64:95:24:F7:C0:74:FF:FF:B8:EB:BA:E9:95:AD:89:8E:5E:36:F3:C4:15:DE:33:8B"
+            ]
+        }
+    }
+]

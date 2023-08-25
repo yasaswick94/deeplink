@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "B4JM9Q2B8Y.com.equiwatt.equiwattev.staging",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
